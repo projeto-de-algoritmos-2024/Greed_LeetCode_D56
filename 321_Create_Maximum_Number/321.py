@@ -20,9 +20,8 @@ class Solution:
         to_remove = len(nums) - length
 
         for num in nums:
-
-            # ERRO: Usei <=, então se stack[-1] == num, também remove.
-            while stack and to_remove > 0 and stack[-1] <= num:
+            # Remover elementos que são menores que o atual
+            while stack and to_remove > 0 and stack[-1] < num:
                 stack.pop()
                 to_remove -= 1
             stack.append(num)
