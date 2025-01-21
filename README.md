@@ -30,6 +30,9 @@ Este projeto consiste na resolução de problemas de Algoritmos Ambiciosos do Le
 
 ![410 Solved](/410_Split_Array_Largest_Sum/410_Accepted.png)
 
+### Super Washing Machines
+![517 Solved](/517_Super_Washing_Machines/517_Accepted.png)
+
 ## Vídeos
 
 ### Create Maximum Number
