@@ -29,13 +29,14 @@ Este projeto consiste na resolução de problemas de Algoritmos Ambiciosos do Le
 
 ![410 Solved](/410_Split_Array_Largest_Sum/410_Accepted.png)
 
+### Course Schedule III
+
+![630 Solved](/630_Course_Schedule_III/630_solved.png)
+
+
 ## Vídeos
 
-### Create Maximum Number
-
-
-### Split Array Largest Sum
-
 [Vídeo de Explicação - Thiago Freitas](https://www.youtube.com/watch?v=k9q00WhjPnY&ab_channel=ThiagoR)
+[Vídeo de Explicação - Caio Berg](https://youtu.be/PshRgQqS4w0)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k9q00WhjPnY?si=7_xy7BvkMDOfOArB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
