@@ -20,6 +20,8 @@ Este projeto consiste na resolução de problemas de Dividir e Conquistar do Lee
 
 ## Screenshots
 
+### Create Maximum Number
+![321 Solved](/321_Create_Maximum_Number/321_solved.jpg)
 
 ## Instalação 
 **Linguagem**: Python<br>
