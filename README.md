@@ -17,15 +17,17 @@ Este projeto consiste na resolução de problemas de Dividir e Conquistar do Lee
 |Problema | Descrição | Dificuldade| Contribuidores
 | -- | -- | -- | -- |
 | 321  |  [321 Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)| Hard | [Caio Berg Carlos Leite](https://github.com/Caio-bergbjj) |
+| 410 | [410 Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | Hard | [Thiago Freitas](https://github.com/thiagorfreitas) |
 
 ## Screenshots
 
 ### Create Maximum Number
 ![321 Solved](/321_Create_Maximum_Number/321_solved.jpg)
 
-## Instalação 
-**Linguagem**: Python<br>
-para a utlização dos códigos será necessário utilizar o comando 'pip install sortedcontainers' para baixar a biblioteca.
+### Split Array Largest Sum
+
+![410 Solved](/410_Split_Array_Largest_Sum/410_accepted.png)
+
 
 
 
