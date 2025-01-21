@@ -19,6 +19,7 @@ Este projeto consiste na resolução de problemas de Algoritmos Ambiciosos do Le
 | 321  |  [321 Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)| Hard | [Caio Berg Carlos Leite](https://github.com/Caio-bergbjj) |
 | 410 | [410 Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | Hard | [Thiago Freitas](https://github.com/thiagorfreitas) |
 | 630  |  [630 Course Schedule III](https://leetcode.com/problems/create-maximum-number/description/)| Hard | [Caio Berg Carlos Leite](https://github.com/Caio-bergbjj) |
+| 517 | [517 Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/) | Hard | [Thiago Freitas](
 
 ## Screenshots
 
