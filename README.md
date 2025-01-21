@@ -10,7 +10,7 @@
 | 20/0028154 |  [Thiago Ribeiro Freitas](https://github.com/thiagorfreitas) |
 
 ## Sobre 
-Este projeto consiste na resolução de problemas de Dividir e Conquistar do LeetCode, para a disciplina de Projeto de Algoritmos, da Universidade de Brasília.
+Este projeto consiste na resolução de problemas de Algoritmos Ambiciosos do LeetCode, para a disciplina de Projeto de Algoritmos, da Universidade de Brasília.
 
 ### Problemas
 
