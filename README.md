@@ -27,7 +27,7 @@ Este projeto consiste na resolução de problemas de Algoritmos Ambiciosos do Le
 
 ### Split Array Largest Sum
 
-![410 Solved](/410_Split_Array_Largest_Sum/410_accepted.png)
+![410 Solved](/410_Split_Array_Largest_Sum/410_Accepted.png)
 
 ## Vídeos
 
@@ -38,4 +38,4 @@ Este projeto consiste na resolução de problemas de Algoritmos Ambiciosos do Le
 
 [Vídeo de Explicação - Thiago Freitas](https://www.youtube.com/watch?v=k9q00WhjPnY&ab_channel=ThiagoR)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k9q00WhjPnY?si=7_xy7BvkMDOfOArB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k9q00WhjPnY?si=7_xy7BvkMDOfOArB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
