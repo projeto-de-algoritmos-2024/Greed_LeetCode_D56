@@ -16,6 +16,7 @@ Este projeto consiste na resolução de problemas de Dividir e Conquistar do Lee
 
 |Problema | Descrição | Dificuldade| Contribuidores
 | -- | -- | -- | -- |
+| 321  |  [321 Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)| Hard | [Caio Berg Carlos Leite](https://github.com/Caio-bergbjj) |
 
 ## Screenshots
 
