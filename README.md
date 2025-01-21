@@ -29,6 +29,15 @@ Este projeto consiste na resolução de problemas de Algoritmos Ambiciosos do Le
 
 ![410 Solved](/410_Split_Array_Largest_Sum/410_accepted.png)
 
+## Vídeos
+
+### Create Maximum Number
+
+
+### Split Array Largest Sum
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k9q00WhjPnY?si=a9gjTMDsFEsxesL-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 
